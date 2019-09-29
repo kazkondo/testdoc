@@ -1,4 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [このページはテスト用です。](README.md)
+
+## English
+
+* [Getting Start](english/untitled.md)
+
+## Japanese
+
+* [ようこそ！](japanese/youkoso.md)
 

@@ -1,8 +1,8 @@
 ---
-description: テストテスト
+description: English Page Test
 ---
 
-# このページはテスト用です。
+# Getting Start
 
 ## Getting Super Powers
 

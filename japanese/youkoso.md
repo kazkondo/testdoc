@@ -1,12 +1,12 @@
 ---
-description: テストテスト
+description: 日本語ページテスト
 ---
 
-# このページはテスト用です。
+# ようこそ！
 
-## Getting Super Powers
+## スーパーパワーを得ましょう
 
-Becoming a super hero is a fairly straight forward process:
+スーパーヒーローになりましょ
 
 ```
 $ give me super-powers
